@@ -12,11 +12,11 @@
             var searcher = new BinarySearcher(array);
 
             // Imperative example. Uncomment to run.
-            // var result = searcher.Find(keyToSearch);
+            //var result = searcher.Find(keyToSearch);
 
             // Recursive example. Uncomment to run.
             // var result = searcher.FindRec(keyToSearch);
-            // Console.WriteLine($"Found {result}");
+            // System.Console.WriteLine($"Found {result}");
         }
     }
 }

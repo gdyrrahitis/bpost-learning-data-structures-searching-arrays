@@ -9,7 +9,7 @@
         public int Find(int key)
         {
             var lowerBound = 0;
-            var upperBound = _array.Length - 1;
+            var upperBound = _array.Length;
 
             while (true)
             {
